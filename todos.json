@@ -1,5 +1,7 @@
-[
-  {
+{
+  "counter": 10,
+  "todos": [
+    {
     "text": "Create Add Item",
     "id": 1,
     "completed": true
@@ -50,3 +52,4 @@
     "id": 10
   }
 ]
+}
